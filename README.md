@@ -1,3 +1,4 @@
 # nilotpal
-This is my first git Repository
-Author:Nilotpal
+This is my first git Repository.
+<br>
+Author:Nilotpal.
